@@ -3,7 +3,7 @@
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Flutterrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
 
 ### Hi, I’m Levi 👋
-- 📱 I’m a Software developer, I love creating apps for both iOS and Android
+- 📱  I’m a Software developer, I love creating apps for both iOS and Android
 - 🔭 I’m currently working at Golden Owl Consulting Ltd
 - 🌱 I’m currently learning Flutter
 - 💬 You can reach me on Facebook: [@Levi](https://www.facebook.com/phuc.tan.0907)
