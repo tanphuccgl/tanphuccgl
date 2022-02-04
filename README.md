@@ -1,6 +1,6 @@
 
 
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Fluterrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Flutterrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
 
 ### Hi, I’m Levi 👋
 - 📱 I’m a Software developer, I love creating apps for both iOS and Android
