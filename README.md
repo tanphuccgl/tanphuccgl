@@ -1,4 +1,4 @@
-### My name is Erik Hanchett and I'm a full stack developer! 👋
+
 
 
 
