@@ -8,5 +8,6 @@
 - 📫 Youtube: [@Levi](https://www.youtube.com/channel/UCtvqqyPF0GYABKoOQVDy-LQ)
 - 🧩 Feel free to contact me for contributing in projects
 - ⚡ Fun fact: 🧑🏻‍💻 📚 ⏰ 🎵
+- ❌❌❌ 22 YEARS OLD NO LOVER ❌❌❌
 
 ![Levi's github stats](https://github-readme-stats.vercel.app/api?username=tanphuccgl&show_icons=true&theme=buefy&show_icons=true&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanphuccgl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
