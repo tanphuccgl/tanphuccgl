@@ -4,7 +4,9 @@
 - 📱  I’m a Software developer, I love creating apps for both iOS and Android
 - 🔭 I’m currently a trainee at Golden Owl Consulting Ltd
 - 🌱 I’m currently learning Flutter
-- 💬 You can reach me on Facebook: [@Levi](https://www.facebook.com/phuc.tan.0907)
+- 💬 You can reach me on Facebook: [@Levi](https://www.facebook.com/tanphuc2k)
+- 📫 Instagram: [@Levi](https://www.instagram.com/leviii2k)
+- 📫 Linkedln: [@Levi](https://www.linkedin.com/in/tanphuc)
 - 📫 Youtube: [@Levi](https://www.youtube.com/channel/UCtvqqyPF0GYABKoOQVDy-LQ)
 - 🧩 Feel free to contact me for contributing in projects
 - ⚡ Fun fact: 🧑🏻‍💻 📚 ⏰ 🎵
